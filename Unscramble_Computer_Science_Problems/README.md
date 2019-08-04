@@ -1,12 +1,12 @@
-# Complexity analysis
+# Complexity analysis: Run time analysis (Worst Case Big-O Notation)
 
-****************************   Run time analysis (Worst Case Big-O Notation) ****************************
       
+## Task 0:
+The solution is O(1), To print the first record and the last record of calls and texts we need a constant time.ie. The algorithms does not dependent on the input data. No matter the size of the input data, the running time will always be the same.
 
-Task 0: The solution is O(1), To print the first record and the last record of calls and texts we need a constant time.ie. The algorithms does not dependent on the input data. No matter the size of the input data, the running time will always be the same.
 
-
-Task 1: The solution is O(n), it means that the loops time complexity increases linearly.
+## Task 1:
+The solution is O(n), it means that the loops time complexity increases linearly.
 We have four separate four loop each for loop has the complexity of O(n) , O(n) + O(n) = O(n + n ) = O ( 2n ), we drop the constant so it is : O(n)
 
 
